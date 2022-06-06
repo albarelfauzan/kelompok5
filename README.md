@@ -27,8 +27,3 @@ Contribution
 -----
 Any contribution are welcome if you are interested in the project, but please let me know.
 
-Contact
------
-Peter Huang
-
-Email: hbd730@gmail.com
